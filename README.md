@@ -40,6 +40,9 @@ Timezone: United States West Coast (PT)
 <a href="https://github.com/KarenZ2023/marketing_AB_test.git">
   <img align="" src="https://readme-stats.clckblog.space/api/pin/?username=KarenZ2023&repo=marketing_AB_test" />
 </a>
+<a href="https://github.com/KarenZ2023/bankruptcy_prediction.git">
+  <img align="" src="https://readme-stats.clckblog.space/api/pin/?username=KarenZ2023&repo=bankruptcy_prediction" />
+</a>
 
 </a>
 </p>
