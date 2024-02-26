@@ -4,7 +4,7 @@
 
 <br />
 
-<p align="center">Aspiring data scientist since 2019. Enjoys solving data science problems with Python, SQL, Tableau, Power BI and R.</p>
+<p align="center">Aspiring data scientist since 2021. Enjoys solving data science problems with Python, SQL, Tableau, Power BI and R.</p>
 <br />
 
 <p>
