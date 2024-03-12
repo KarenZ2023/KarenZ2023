@@ -4,7 +4,7 @@
 
 <br />
 
-<p align="center">Seasoned science professional and junior data scientist. Enjoys solving data science problems with Python, SQL, Tableau, Power BI and R, and implements machine learning algorithms for predictive modeling and data-driven decision-making </p>
+<p align="center">I am a seasoned science professional and junior data scientist. I enjoy solving data science problems with Python, SQL, Tableau, Power BI and R, and implementing machine learning algorithms for predictive modeling and data-driven decision-making. </p>
 <br />
 
 <p>
