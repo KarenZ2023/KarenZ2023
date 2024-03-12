@@ -4,7 +4,7 @@
 
 <br />
 
-<p align="center">Aspiring data scientist since 2021. Enjoys solving data science problems with Python, SQL, Tableau, Power BI and R.</p>
+<p align="center">Seasoned science professional and junior data scientist. Enjoys solving data science problems with Python, SQL, Tableau, Power BI and R, and implements machine learning algorithms for predictive modeling and data-driven decision-making </p>
 <br />
 
 <p>
