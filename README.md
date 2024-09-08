@@ -33,8 +33,8 @@ Timezone: United States West Coast (PT)
 <h2 align="center">Projects</h2>
 <br />
 <p align="center">
-<a href="https://github.com/KarenZ2023/SF_Car_Crashes.git">
-  <img align="" src="https://readme-stats.clckblog.space/api/pin/?username=KarenZ2023&repo=SF_Car_Crashes" />
+<a href="https://github.com/KarenZ2023/SF_Traffic_Crashes.git">
+  <img align="" src="https://readme-stats.clckblog.space/api/pin/?username=KarenZ2023&repo=SF_Traffic_Crashes" />
 </a>
 <a href="https://github.com/KarenZ2023/Sephora_product_analysis.git">
   <img align="" src="https://readme-stats.clckblog.space/api/pin/?username=KarenZ2023&repo=Sephora_product_analysis" />
