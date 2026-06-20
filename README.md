@@ -23,7 +23,7 @@
 <br />
 
 <p align="center">
-Timezone: United States West Coast (PT)
+Timezone: United States East Coast (ET)
 </p>
 <br />
 
