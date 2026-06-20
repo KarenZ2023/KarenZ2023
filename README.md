@@ -30,7 +30,7 @@ Timezone: United States West Coast (PT)
 <h2 align="center">Projects</h2>
 <br />
 <p align="center">
-<a href="https://github.com/KarenZ2023/SF_Traffic_Crashes.git">
+<a href="https://github.com/KarenZ2023/historic-recipe-explorer.git">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=KarenZ2023&repo=historic-recipe-explorer" />
 </a>
 <a href="https://github.com/KarenZ2023/SF_Traffic_Crashes.git">
