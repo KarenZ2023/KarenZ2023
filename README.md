@@ -4,7 +4,8 @@
 
 <br />
 
-<p align="center">I am a seasoned science professional and junior data scientist. I enjoy solving data science problems with Python, SQL, Tableau, Power BI and R, and implementing machine learning algorithms for predictive modeling and data-driven decision-making. </p>
+<p align="center">I am a Data Scientist who enjoys solving complex problems with Python, SQL, and Power BI. My experience spans fraud analytics, machine learning, forecasting, data visualization, and large-scale data analysis. I enjoy building data-driven solutions that transform raw data into actionable insights and support informed decision-making.
+</p>
 <br />
 
 <p>
@@ -14,12 +15,8 @@
 <p align="center">
 <img alt="Python" width="40px" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" />
 <img alt="PostgreSQL" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" />
-<img alt="Tableau" width="50px" src="https://github.com/KarenZ2023/KarenZ2023_AboutMe/blob/main/Images/Tableau_logo.png" />
 <img alt="PowerBI" width="50px" src="https://github.com/KarenZ2023/KarenZ2023_AboutMe/blob/main/Images/PowerBI_logo2.jpg" />
-<img alt="R" width="50px" src="https://github.com/KarenZ2023/KarenZ2023_AboutMe/blob/main/Images/R_logo.png" />
-<img alt="Jupyter Notebook" width="40px" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" />
-<img alt="Microsoft Azure" width="40px" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" />
-<img alt="Visual Studio Code" width="40px" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" />
+<img alt="Tableau" width="50px" src="https://github.com/KarenZ2023/KarenZ2023_AboutMe/blob/main/Images/Tableau_logo.png" />
 <img alt="Git" width="40px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" />
 
    </p>
@@ -34,19 +31,22 @@ Timezone: United States West Coast (PT)
 <br />
 <p align="center">
 <a href="https://github.com/KarenZ2023/SF_Traffic_Crashes.git">
-  <img align="" src="https://readme-stats.clckblog.space/api/pin/?username=KarenZ2023&repo=SF_Traffic_Crashes" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=KarenZ2023&repo=historic-recipe-explorer" />
+</a>
+<a href="https://github.com/KarenZ2023/SF_Traffic_Crashes.git">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=KarenZ2023&repo=SF_Traffic_Crashes" />
 </a>
 <a href="https://github.com/KarenZ2023/Sephora_product_analysis.git">
-  <img align="" src="https://readme-stats.clckblog.space/api/pin/?username=KarenZ2023&repo=Sephora_product_analysis" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=KarenZ2023&repo=Sephora_product_analysis" />
 </a>
 <a href="https://github.com/KarenZ2023/churn_analysis.git">
-  <img align="" src="https://readme-stats.clckblog.space/api/pin/?username=KarenZ2023&repo=churn_analysis" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=KarenZ2023&repo=churn_analysis" />
 </a>
 <a href="https://github.com/KarenZ2023/marketing_AB_test.git">
-  <img align="" src="https://readme-stats.clckblog.space/api/pin/?username=KarenZ2023&repo=marketing_AB_test" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=KarenZ2023&repo=marketing_AB_test" />
 </a>
 <a href="https://github.com/KarenZ2023/bankruptcy_prediction.git">
-  <img align="" src="https://readme-stats.clckblog.space/api/pin/?username=KarenZ2023&repo=bankruptcy_prediction" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=KarenZ2023&repo=bankruptcy_prediction" />
 </a>
 
 </a>
